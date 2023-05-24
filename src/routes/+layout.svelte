@@ -17,25 +17,30 @@
   const nav = [
   {
     title: 'Обо мне',
-    href: '/about'
+    href: '/about',
+    isShow: true,
   },
   {
     title: 'Блог',
-    href: '/blog'
+    href: '/blog',
+    isShow: true,
   },
-  {
-    title: 'Портфолио',
-    href: '/project'
-  },
-  {
-    title: 'Контакты',
-    href: '/contact'
-  },
-  {
-    title: 'temp',
-    href: '/temp'
-  }
-]
+{
+  title: 'Портфолио',
+  href: '/project',
+  isShow: true,
+},
+{
+  title: 'Контакты',
+  href: '/contact',
+  isShow: true,
+},
+{
+  title: 'temp',
+  href: '/temp',
+  isShow: false,
+},
+];
 </script>
 <style>
   .container {
