@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Имя Фамилия</title>
+<title>Наталья Веретнова</title>
 </svelte:head>
 
 <div class='container'>
@@ -8,8 +8,8 @@
             <div class='container info-container'>
                 <div class='info-text'>
                     <h1>
-                        <p class='animate-text-1'>Lorem ipsum dolor sit,</p>
-                        <p class='text-2'>Lorem ipsum dolor sit amet.</p>
+                        <p class='animate-text-1'>Персональный сайт,</p>
+                        <p class='text-2'>Веретновой Натальи.</p>
                     </h1>
                 </div>
                 <h2 class='subtitle'>

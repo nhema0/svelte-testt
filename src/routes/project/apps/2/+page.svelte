@@ -60,20 +60,20 @@
          width: 100%;
         }
         thead {
-         color: #4a0e72;
+         color: #000000;
         ;
         }
         th, td {
-         border: 1px solid #4a0e72;
+         border: 1px solid #d8c1e7;
          padding: 8px;
          text-align: center;
         }
         th {
-         background-color: #eee;
+         background-color: rgb(255, 255, 255);
         }
         button {
          padding: 5px 10px;
-         background-color: #5744c5;
+         background-color: #c0bae5;
          color: white;
          border: none;
          cursor: pointer;
